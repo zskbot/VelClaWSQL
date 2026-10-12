@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://wowsql.com/logo/wowbaselogo.png" alt="WoWSQL" width="400" />
+  <img src="https://wowsql.com/logo/wowbaselogo.png" alt="VelClaWSQL" width="400" />
 </p>
 
-<h1 align="center">WoWSQL — Self-Hosted</h1>
+<h1 align="center">VelClaWSQL — Self-Hosted</h1>
 
 <p align="center">
   Run your own PostgreSQL backend with a full REST API, Auth, Storage, Realtime, and a beautiful Dashboard — all in one <code>docker compose up</code>.
@@ -17,7 +17,7 @@
 
 ## What is this?
 
-This is the **self-hosted edition** of [WoWSQL](https://wowsql.com) — a Postgres-centric backend-as-a-service. It gives you:
+This is the **VelClaWSQL self-hosted edition**, based on the WoWSQL PostgreSQL backend-as-a-service architecture. It provides:
 
 | Feature | Description |
 |---------|------------|
